@@ -1,0 +1,41 @@
+h2 {
+  margin: auto;
+}
+div {
+  margin-top: 2px;
+  text-align: center;
+}
+#container {
+  width: auto;
+}
+#header {
+  background-color: #FFFFFF;
+  height: 50px;
+}
+#navigation {
+  background-color: #0000FF;
+  height: 50px;
+}
+#content {
+  background-color: #FF0000;
+  float:left;
+  width: 49%;
+  height: 50px;
+}
+#sidebar {
+  background-color:#32CD32;
+  height: 49px;
+}
+#footer {
+  background-color:#00FFFF;
+  height: 50px;
+}
+#clear {
+  clear: both;
+}
+
+#footer {
+  margin-top: 4px;
+  background: #75c9b8;
+  height: 300px;
+}
